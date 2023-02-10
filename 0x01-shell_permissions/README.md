@@ -1,1 +1,1 @@
-a script that switches the current user to the use
+script that prints the effective username of current user
